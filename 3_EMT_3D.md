@@ -6,7 +6,7 @@ memvisualisasikan fungsi dari dua variabel.
 Euler menggambar fungsi tersebut menggunakan algoritma pengurutan
 untuk menyembunyikan bagian di latar belakang. Secara umum, Euler
 menggunakan proyeksi pusat. Standarnya adalah dari kuadran x-y positif
-menuju titik asal x=y=z=0, tetapi sudut=0° terlihat dari arah sumbu y.
+menuju titik asal x=y=z=0, tetapi sudut=0Â° terlihat dari arah sumbu y.
 Sudut pandang dan tinggi dapat diubah.
 
 
@@ -464,13 +464,13 @@ grafis akan ditentukan oleh parameter frame=3.
 
 ![images/3_EMT_3D-061.png](images/3_EMT_3D-061.png)
 
-\>plot3d("x^4+y^2",a=0,b=1,c=-1,d=1,angle=-20°,height=20°, ...  
+\>plot3d("x^4+y^2",a=0,b=1,c=-1,d=1,angle=-20Â°,height=20Â°, ...  
 \>   center=[0.4,0,0],zoom=5):
 
 
 ![images/3_EMT_3D-062.png](images/3_EMT_3D-062.png)
 
-\>plot3d("a",r=2,<fscale,<scale,distance=13,height=50°, ...  
+\>plot3d("a",r=2,<fscale,<scale,distance=13,height=50Â°, ...  
 \>    center=[0,0,-2],frame=3):
 
 
@@ -520,13 +520,13 @@ FUNGSI LINEAR
 
 ![images/3_EMT_3D-069.png](images/3_EMT_3D-069.png)
 
-\>plot3d("e",a=0,b=1,c=-1,d=1,angle=-20°,height=20°, ...  
+\>plot3d("e",a=0,b=1,c=-1,d=1,angle=-20Â°,height=20Â°, ...  
 \>   center=[0.4,0,0],zoom=5):
 
 
 ![images/3_EMT_3D-070.png](images/3_EMT_3D-070.png)
 
-\>plot3d("e",r=2,<fscale,<scale,distance=13,height=50°, ...  
+\>plot3d("e",r=2,<fscale,<scale,distance=13,height=50Â°, ...  
 \>   center=[0,0,-2],frame=3):
 
 
@@ -573,7 +573,7 @@ FUNGSI TRIGONOMETRI
 
 ![images/3_EMT_3D-076.png](images/3_EMT_3D-076.png)
 
-\>plot3d("f",a=0,b=1,c=-1,d=1,angle=-20°,height=20°, ...  
+\>plot3d("f",a=0,b=1,c=-1,d=1,angle=-20Â°,height=20Â°, ...  
 \>   center=[0.4,0,0],zoom=5):
 
 
@@ -1038,7 +1038,7 @@ Penjelasan sintaks dari plot
 dilakukan
 
 
-- (” ...”) = tempat kita untuk memasukkan perintah yang kita inginkan
+- (Â” ...Â”) = tempat kita untuk memasukkan perintah yang kita inginkan
 
 
 ## Contoh 2
@@ -1222,7 +1222,7 @@ angle: sudut terhadap sumbu y negatif dalam radian.
 height: ketinggian tampilan dalam radian.
 
 
-\>plot3d("x^4+y^2",a=0,b=1,c=-1,d=1,angle=-20°,height=20°,...  
+\>plot3d("x^4+y^2",a=0,b=1,c=-1,d=1,angle=-20Â°,height=20Â°,...  
 \>   center=[0,0,1],zoom=5):
 
 
@@ -1366,7 +1366,7 @@ implisit=3: dipotong sejajar dengan bidang z-x (yang berarti
 * pemotongan dilakukan dengan mempertahankan nilai y konstan)
 
 * 
-implisit=4: dipotong sejajar bidang x-y
+implisit=4: dipotong sejajarÂ bidangÂ x-y
 
 
 Tambahkan nilai-nilai ini, jika Anda mau. Dalam contoh kita memplot
@@ -1449,12 +1449,12 @@ menggunakan sudut pandang yang berbeda.
 
 
 \>plot3d("exp(-x^2-y^2)",r=2,n=100,level="thin", ...  
-\>    \>contour,\>spectral,fscale=1,scale=1.1,angle=45°,height=20°):
+\>    \>contour,\>spectral,fscale=1,scale=1.1,angle=45Â°,height=20Â°):
 
 
 ![images/3_EMT_3D-175.png](images/3_EMT_3D-175.png)
 
-\>plot3d("exp(x\*y)",angle=100°,\>contour,color=yellow):
+\>plot3d("exp(x\*y)",angle=100Â°,\>contour,color=yellow):
 
 
 ![images/3_EMT_3D-176.png](images/3_EMT_3D-176.png)
@@ -1483,7 +1483,7 @@ level. Ini akan menghasilkan garis level tipis alih-alih rentang
 level.
 
 
-\>plot3d("x^2-y^2",0,1,0,1,angle=220°,level=-1:0.2:1,color=redgreen):
+\>plot3d("x^2-y^2",0,1,0,1,angle=220Â°,level=-1:0.2:1,color=redgreen):
 
 
 ![images/3_EMT_3D-178.png](images/3_EMT_3D-178.png)
@@ -1497,7 +1497,7 @@ Selain itu, kami melapisi kisi dengan 10 interval di setiap arah.
 
 
 \>plot3d("x^2+y^3",level=[-0.1,0.9;0,1], ...  
-\>     \>spectral,angle=30°,grid=10,contourcolor=blue):
+\>     \>spectral,angle=30Â°,grid=10,contourcolor=blue):
 
 
 ![images/3_EMT_3D-179.png](images/3_EMT_3D-179.png)
@@ -1684,7 +1684,7 @@ sebagai tambahan.
 
 
 \>i=1:20; j=i'; ...  
-\>   plot3d(i\*j^2+100\*normal(20,20),\>zscale,scale=[1,1,1.5],angle=-40°,zoom=1.8):
+\>   plot3d(i\*j^2+100\*normal(20,20),\>zscale,scale=[1,1,1.5],angle=-40Â°,zoom=1.8):
 
 
 ![images/3_EMT_3D-194.png](images/3_EMT_3D-194.png)
@@ -1741,7 +1741,7 @@ jantung yang diputar sebagai permukaan parametrik.
 \>   t=linspace(-pi/2,pi/2,100); r=f(t);  ...  
 \>   s=linspace(pi,2pi,100)'; ...  
 \>   plot3d(r\*cos(t)\*sin(s),r\*cos(t)\*cos(s),r\*sin(t), ...  
-\>   \>hue,<frame,color=yellow,zoom=4,amb=0,max=0.7,grid=12,height=50°):
+\>   \>hue,<frame,color=yellow,zoom=4,amb=0,max=0.7,grid=12,height=50Â°):
 
 
 ![images/3_EMT_3D-203.png](images/3_EMT_3D-203.png)
@@ -1759,7 +1759,7 @@ sumbu z. Kami mendefinisikan fungsi, yang menggambarkan objek.
 </pre>
 \>plot3d("f(x,y,z)", ...  
 \>   xmin=0,xmax=1.2,ymin=-1.2,ymax=1.2,zmin=-1.2,zmax=1.4, ...  
-\>   implicit=1,angle=-30°,zoom=2.5,n=[10,60,60],\>anaglyph):
+\>   implicit=1,angle=-30Â°,zoom=2.5,n=[10,60,60],\>anaglyph):
 
 
 ![images/3_EMT_3D-204.png](images/3_EMT_3D-204.png)
@@ -1853,14 +1853,14 @@ hasil visualisasi fungsi dapat dibuat menjadi transparan dan
 menambahkan hasil akhir lainnya.
 
 
-\> pov3d("(x^2+y^3)",axiscolor=blue,angle=30°, ...  
+\> pov3d("(x^2+y^3)",axiscolor=blue,angle=30Â°, ...  
 \>     look=povlook(yellow,0.2),level=-1:0.5:1,zoom=3);
 
 
 ![images/3_EMT_3D-206.png](images/3_EMT_3D-206.png)
 
 \>pov3d("((x-1)^2+(y+1)^2)\*((x+1)^2+y^2)/40",r=1.5, ...  
-\>     angle=120°,level=1/40,dlevel=0.005,light=[-1,1,1],height=45°,n=50, ...  
+\>     angle=120Â°,level=1/40,dlevel=0.005,light=[-1,1,1],height=45Â°,n=50, ...  
 \>     <fscale,zoom=3.8);
 
 
@@ -1936,11 +1936,11 @@ menambahkan warna, ditambahkan juga transparansi dan cahaya.
 Akan ditampilkan fungsi untuk membuat sebuah donat
 
 
-\>povstart(angle=0,height=45°); //height untuk menampilkan fungsi dengan suatiu derajat tertentu 
+\>povstart(angle=0,height=45Â°); //height untuk menampilkan fungsi dengan suatiu derajat tertentu 
 
 \>function povdonat (r1,r2,look="") := "torus {"+r1+","+r2+look+"}"; //fungsi untuk menampilkan sebuah donat
 
-\>writeln(povobject(povdonat(1,0.5),povlook(lightblue,\>phong),xrotate(90°)));
+\>writeln(povobject(povdonat(1,0.5),povlook(lightblue,\>phong),xrotate(90Â°)));
 
 \>povend();
 
@@ -1963,7 +1963,7 @@ Fungsi pov3d() memiliki sakelar sederhana untuk menghasilkan
 anaglyphs.
 
 
-\>pov3d("-exp(-x^2-y^2)/2",r=2,height=45°,\>anaglyph, ...  
+\>pov3d("-exp(-x^2-y^2)/2",r=2,height=45Â°,\>anaglyph, ...  
 \>     center=[0,0,0.5],zoom=3.5);
 
 
@@ -1979,8 +1979,8 @@ berbeda untuk parameter anaglyph.
 
       s=povsphere(povc,1);
       cl=povcylinder(-povz,povz,0.5);
-      clx=povobject(cl,rotate=xrotate(90°));
-      cly=povobject(cl,rotate=yrotate(90°));
+      clx=povobject(cl,rotate=xrotate(90Â°));
+      cly=povobject(cl,rotate=yrotate(90Â°));
       c=povbox([-1,-1,0],1);
       un=povunion([cl,clx,cly,c]);
       obj=povdifference(s,un,povlook(red));
@@ -2014,7 +2014,7 @@ $$((x^2+y^2-c^2)^2+(z^2-1)^2)*((y^2+z^2-c^2)^2+(x^2-1)^2)*((z^2+x^2-c^2)^2+(y^2-
 
     C:\Program Files\POV-Ray\v3.7\bin\pvengine.exe
 
-\>povstart(angle=25°,height=10°);
+\>povstart(angle=25Â°,height=10Â°);
 
 \>writeln(povsurface("pow(x,2)+pow(y,2)\*pow(z,2)-1",povlook(blue),povbox(-2,2,"")));
 
@@ -2030,7 +2030,7 @@ $$((x^2+y^2-c^2)^2+(z^2-1)^2)*((y^2+z^2-c^2)^2+(x^2-1)^2)*((z^2+x^2-c^2)^2+(y^2-
 
     C:\Program Files\POV-Ray\v3.7\bin\pvengine.exe
 
-\>povstart(angle=70°,height=50°,zoom=4);
+\>povstart(angle=70Â°,height=50Â°,zoom=4);
 
 \>writeln(povsurface("pow(x,2)\*y-pow(y,3)-pow(z,2)",povlook(green))); ...  
 \>   writeAxes(); ...  
@@ -2046,7 +2046,7 @@ $$((x^2+y^2-c^2)^2+(z^2-1)^2)*((y^2+z^2-c^2)^2+(x^2-1)^2)*((z^2+x^2-c^2)^2+(y^2-
 
     C:\Program Files\POV-Ray\v3.7\bin\pvengine.exe
 
-\>povstart(angle=70°,height=30°);
+\>povstart(angle=70Â°,height=30Â°);
 
 \>writeln(povsurface("pow(x,2)+pow(y,2)\*pow(z,2)-1",povlook(red),povbox(-2,2,"")));
 
@@ -2083,7 +2083,7 @@ Dalam contoh kita memutar fungsi di sekitar sumbu z.
 \>function f(x) := x^3-x+1; ...  
 \>   x=-1:0.01:1; t=linspace(0,2pi,8)'; ...  
 \>   Z=x; X=cos(t)\*f(x); Y=sin(t)\*f(x); ...  
-\>   pov3d(X,Y,Z,angle=40°,height=20°,axis=0,zoom=4,light=[10,-5,5]);
+\>   pov3d(X,Y,Z,angle=40Â°,height=20Â°,axis=0,zoom=4,light=[10,-5,5]);
 
 
 ![images/3_EMT_3D-217.png](images/3_EMT_3D-217.png)
@@ -2146,7 +2146,7 @@ Kami hanya menggunakan 25 poin.
 
 \>x=-1:0.5:1; y=x';
 
-\>pov3d(x,y,Z(x,y),angle=10°, ...  
+\>pov3d(x,y,Z(x,y),angle=10Â°, ...  
 \>     xv=NX(x,y),yv=NY(x,y),zv=NZ(x,y),<shadow);
 
 
@@ -2205,7 +2205,7 @@ Kami juga dapat menghasilkan grid dalam 3D.
 
 \>povstart(zoom=4); ...  
 \>   x=-1:0.5:1; r=1-(x+1)^2/6; ...  
-\>   t=(0°:30°:360°)'; y=r\*cos(t); z=r\*sin(t); ...  
+\>   t=(0Â°:30Â°:360Â°)'; y=r\*cos(t); z=r\*sin(t); ...  
 \>   writeln(povgrid(x,y,z,d=0.02,dballs=0.05)); ...  
 \>   povend();
 
@@ -2235,7 +2235,7 @@ $$f(x,y)=x^3+3y^2$$
 dengan zoom 3 dan angle 55 derajat menggunakan povray
 
 
-\>pov3d("x^3+3\*y^2",zoom=3,angle=55°);
+\>pov3d("x^3+3\*y^2",zoom=3,angle=55Â°);
 
 
 ![images/3_EMT_3D-224.png](images/3_EMT_3D-224.png)
