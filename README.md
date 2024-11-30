@@ -12,7 +12,7 @@
 [File Tugas EMT format Markdown](https://github.com/kikiyhimma22/Kikiyan_Himmatal_Ulya_Tugas-Aplikom/blob/7c7352718b1fa8d67dd7976b2da96f623adf9564/1_EMT_Aljabar.md)
 
 4. PDF Tugas EMT dan PDF Tugas Membuat Dokumen Dengan Latex Menggunakan Overleaf
-[PDF]
+[PDF](https://github.com/kikiyhimma22/Kikiyan_Himmatal_Ulya_Tugas-Aplikom/blob/627edaf658e3c2c95c1c3840318cbcffdcb86e48/1_EMT_Aljabar.pdf)
 
 Jika Anda Tertarik Mencoba, Anda Dapat Menggunakan file [berikut ini]
  Kemudian Import ke [Overleaf](https://www.overleaf.com/) .Selamat Mencoba!!!
