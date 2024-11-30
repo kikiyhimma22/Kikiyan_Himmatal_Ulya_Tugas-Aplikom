@@ -14,5 +14,8 @@
 4. PDF Tugas EMT dan PDF Tugas Membuat Dokumen Dengan Latex Menggunakan Overleaf
 [PDF](https://github.com/kikiyhimma22/Kikiyan_Himmatal_Ulya_Tugas-Aplikom/blob/627edaf658e3c2c95c1c3840318cbcffdcb86e48/1_EMT_Aljabar.pdf)
 
+5. File Tugas EMT
+[File Tugas EMT](https://github.com/kikiyhimma22/Kikiyan_Himmatal_Ulya_Tugas-Aplikom/blob/b804692f90f6d6a33f89e01892d24a8abf059ce6/2_EMT_2D.en)
+
 Jika Anda Tertarik Mencoba, Anda Dapat Menggunakan file [berikut ini]
  Kemudian Import ke [Overleaf](https://www.overleaf.com/) .Selamat Mencoba!!!
