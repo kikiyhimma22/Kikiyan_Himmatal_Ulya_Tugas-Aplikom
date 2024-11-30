@@ -36,7 +36,7 @@
 [File Tugas EMT format Markdown]
 
 12. 3D PDF EMT dan PDF Tugas Membuat Dokumen Dengan Latex Menggunakan Overleaf
-[PDF]
+[PDF](https://github.com/kikiyhimma22/Kikiyan_Himmatal_Ulya_Tugas-Aplikom/blob/fd8e01f44d5c01ba4569ec7bb8b09fa59f2fbe59/3_EMT_3D.pdf)
 
 13. File EMT Kalkulus
 [File EMT]
