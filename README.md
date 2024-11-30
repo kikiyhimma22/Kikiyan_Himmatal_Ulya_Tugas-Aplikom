@@ -63,7 +63,7 @@ Geometri PDF EMT dan PDF Tugas Membuat Dokumen Dengan Latex Menggunakan Overleaf
 [PDF](https://github.com/kikiyhimma22/Kikiyan_Himmatal_Ulya_Tugas-Aplikom/blob/77063cd9ec6d83559a10f7d80fa213eb54cf65d3/5_EMT_Geo.pdf)
 
 File EMT Statistika
-[File Tugas EMT]
+[File Tugas EMT](https://github.com/kikiyhimma22/Kikiyan_Himmatal_Ulya_Tugas-Aplikom/blob/ccb260631394e098d5ba7c85270d242b23b0b04f/6_EMT_Stat.en)
 
 File EMT format LaTeX Statistika
 [File Tugas EMT format LaTeX]
