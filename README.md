@@ -24,7 +24,7 @@
 [File Tugas EMT format Markdown](https://github.com/kikiyhimma22/Kikiyan_Himmatal_Ulya_Tugas-Aplikom/blob/47b652b07401f9394eddd8e0049129d9788df652/2_EMT_2D.md)
 
 8. PDF Tugas EMT dan PDF Tugas Membuat Dokumen Dengan Latex Menggunakan Overleaf
-[PDF]
+[PDF](https://github.com/kikiyhimma22/Kikiyan_Himmatal_Ulya_Tugas-Aplikom/blob/3a1734463b1e04fcaa7372f86bc488dbca8e955b/2_EMT_2D.pdf)
 
 9. File Tugas EMT
 [File Tugas EMT]
