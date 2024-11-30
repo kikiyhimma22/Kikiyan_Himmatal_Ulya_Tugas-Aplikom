@@ -51,7 +51,7 @@ File EMT format LaTeX Kalkulus
 [PDF](https://github.com/kikiyhimma22/Kikiyan_Himmatal_Ulya_Tugas-Aplikom/blob/193fbc7d780f2ddbbb1067e93dbcc3a9872da4e2/4_EMT_Kalkulus.pdf)
 
 17. File EMT Geometri
-[File Tugas EMT]
+[File Tugas EMT](https://github.com/kikiyhimma22/Kikiyan_Himmatal_Ulya_Tugas-Aplikom/blob/416767854b1234bca86cd18239e91bb72cf7704f/5_EMT_Geo.en)
 
 18. File EMT format LaTeX Geometri
 [File Tugas EMT format LaTeX]
