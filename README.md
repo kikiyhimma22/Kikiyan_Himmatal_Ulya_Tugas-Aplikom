@@ -60,7 +60,7 @@ File EMT format LaTeX Kalkulus
 [File Tugas EMT format Markdown](https://github.com/kikiyhimma22/Kikiyan_Himmatal_Ulya_Tugas-Aplikom/blob/5f780868bff936ddb3c8b59b437ce84ca1874859/5_EMT_Geo.md)
 
 20.  Geometri PDF EMT dan PDF Tugas Membuat Dokumen Dengan Latex Menggunakan Overleaf
-[PDF]
+[PDF](https://github.com/kikiyhimma22/Kikiyan_Himmatal_Ulya_Tugas-Aplikom/blob/77063cd9ec6d83559a10f7d80fa213eb54cf65d3/5_EMT_Geo.pdf)
 
 21. File EMT Statistika
 [File Tugas EMT]
@@ -74,5 +74,5 @@ File EMT format LaTeX Kalkulus
 24. Statistika PDF EMT dan PDF Tugas Membuat Dokumen Dengan Latex Menggunakan Overleaf
 [PDF]
 
-Jika Anda Tertarik Mencoba, Anda Dapat Menggunakan file [berikut ini]
+Jika Anda Tertarik Mencoba, Anda Dapat Menggunakan file-file Tex diatas
  Kemudian Import ke [Overleaf](https://www.overleaf.com/) .Selamat Mencoba!!!
