@@ -66,7 +66,7 @@ File EMT Statistika
 [File Tugas EMT](https://github.com/kikiyhimma22/Kikiyan_Himmatal_Ulya_Tugas-Aplikom/blob/ccb260631394e098d5ba7c85270d242b23b0b04f/6_EMT_Stat.en)
 
 File EMT format LaTeX Statistika
-[File Tugas EMT format LaTeX]
+[File Tugas EMT format LaTeX](https://github.com/kikiyhimma22/Kikiyan_Himmatal_Ulya_Tugas-Aplikom/blob/0148b5e8ae759a5c2eac7fd9155a21821a8da2c6/6_EMT_Stat.tex)
 
 File EMT format Markdown Statistika
 [File Tugas EMT format Markdown](https://github.com/kikiyhimma22/Kikiyan_Himmatal_Ulya_Tugas-Aplikom/blob/d8c350f4758f9c0a389ebdd363d961fe1a32579d/6_EMT_Stat.md)
