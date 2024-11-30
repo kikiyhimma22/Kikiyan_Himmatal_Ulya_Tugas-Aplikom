@@ -3,7 +3,7 @@
 📚 Berikut adalah ringkasan hasil tugas Saya:
 
 1. File Tugas EMT
-[File Tugas EMT]
+[File Tugas EMT](https://github.com/kikiyhimma22/Kikiyan_Himmatal_Ulya_Tugas-Aplikom/blob/d59c9ec2bc0d78cc776170fb279ad732ff2966b0/1_EMT_Aljabar.en)
 
 2. File Tugas EMT format LaTeX
 [File Tugas EMT format LaTeX]
