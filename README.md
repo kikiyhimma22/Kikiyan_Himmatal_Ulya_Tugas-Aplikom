@@ -39,13 +39,13 @@
 [PDF](https://github.com/kikiyhimma22/Kikiyan_Himmatal_Ulya_Tugas-Aplikom/blob/fd8e01f44d5c01ba4569ec7bb8b09fa59f2fbe59/3_EMT_3D.pdf)
 
 13. File EMT Kalkulus
-[File EMT]
+[File EMT](https://github.com/kikiyhimma22/Kikiyan_Himmatal_Ulya_Tugas-Aplikom/blob/15b773f70fff204c2b484b717b18646b51586a8f/4_EMT_Kalkulus.en)
 
 File EMT format LaTeX Kalkulus
-[File EMT format LaTeX](https://github.com/kikiyhimma22/Kikiyan_Himmatal_Ulya_Tugas-Aplikom/blob/15b773f70fff204c2b484b717b18646b51586a8f/4_EMT_Kalkulus.en)
+[File EMT format LaTeX]
 
 15. File EMT format Markdown Kalkulus
-[File EMT format Markdown]
+[File EMT format Markdown](https://github.com/kikiyhimma22/Kikiyan_Himmatal_Ulya_Tugas-Aplikom/blob/64813445df1680416f676b2ed31bca3237849535/4_EMT_Kalkulus.md)
 
 16. Kalkulus PDF EMT dan PDF Tugas Membuat Dokumen Dengan Latex Menggunakan Overleaf
 [PDF]
