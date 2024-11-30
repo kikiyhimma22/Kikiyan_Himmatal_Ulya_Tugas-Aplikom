@@ -18,7 +18,7 @@
 [File Tugas EMT](https://github.com/kikiyhimma22/Kikiyan_Himmatal_Ulya_Tugas-Aplikom/blob/b804692f90f6d6a33f89e01892d24a8abf059ce6/2_EMT_2D.en)
 
 6. File Tugas EMT format LaTeX
-[File Tugas EMT format LaTeX]
+[File Tugas EMT format LaTeX](https://github.com/kikiyhimma22/Kikiyan_Himmatal_Ulya_Tugas-Aplikom/blob/f2ba6e97fc27c9c29e0393a67a2e3d8d03c99946/1_EMT_Aljabar.tex)
 
 7. File Tugas EMT format Markdown
 [File Tugas EMT format Markdown](https://github.com/kikiyhimma22/Kikiyan_Himmatal_Ulya_Tugas-Aplikom/blob/47b652b07401f9394eddd8e0049129d9788df652/2_EMT_2D.md)
