@@ -30,7 +30,7 @@
 [File Tugas EMT](https://github.com/kikiyhimma22/Kikiyan_Himmatal_Ulya_Tugas-Aplikom/blob/d46a3bb51817ecfc627c264ea03a367f577f7aad/3_EMT_3D.en)
 
 10. File EMT format LaTeX 3D
-[File Tugas EMT format LaTeX]
+[File Tugas EMT format LaTeX](https://github.com/kikiyhimma22/Kikiyan_Himmatal_Ulya_Tugas-Aplikom/blob/1e7a726b045764ae35b12a879496313648d499ef/3_EMT_3D.tex)
 
 11.File EMT format Markdown 3D
 [File Tugas EMT format Markdown](https://github.com/kikiyhimma22/Kikiyan_Himmatal_Ulya_Tugas-Aplikom/blob/f272d1cf8277168936dd3832eb39f08090338899/3_EMT_3D.md)
