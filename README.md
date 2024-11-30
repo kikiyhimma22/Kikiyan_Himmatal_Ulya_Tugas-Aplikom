@@ -69,7 +69,7 @@ File EMT format LaTeX Statistika
 [File Tugas EMT format LaTeX]
 
 File EMT format Markdown Statistika
-[File Tugas EMT format Markdown]
+[File Tugas EMT format Markdown](https://github.com/kikiyhimma22/Kikiyan_Himmatal_Ulya_Tugas-Aplikom/blob/d8c350f4758f9c0a389ebdd363d961fe1a32579d/6_EMT_Stat.md)
 
 Statistika PDF EMT dan PDF Tugas Membuat Dokumen Dengan Latex Menggunakan Overleaf
 [PDF]
